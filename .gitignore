@@ -1,0 +1,6 @@
+# Files and Dictionaries not being added to git
+data/*
+.DS_Store
+.idea/
+Code/__pycache__/
+venv/

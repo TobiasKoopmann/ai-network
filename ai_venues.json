@@ -1,0 +1,178 @@
+{ "core*": [
+    "AAAI",
+    "IJCAI",
+    "Artif. Intell."
+  ],
+  "core": [
+    "J. Artif. Intell. Res.",
+      "ECAI",
+      "AISB (ECAI)",
+      "AISB/GI (ECAI)"
+  ],
+  "problem_solving*": [
+    "KR"
+  ],
+  "problem_solving":  [
+    "CP",
+    "SAT",
+    "Constraints",
+    "CPAIOR",
+    "SARA",
+    "SOCS"
+  ],
+  "knowledge_representation*": [
+    "Autonomous Agents and Multi-Agent Systems",
+    "ICAPS",
+    "AIPS",
+    "ECP"
+  ],
+  "knowledge_representation": [
+    "ISWC",
+    "ISWC/ASWC",
+    "International Semantic Web Conference",
+    "ESWC",
+    "ESWS",
+    "J. Autom. Reasoning",
+    "TPLP",
+    "CADE",
+    "IJCAR",
+    "LPAR",
+    "RCLP",
+    "JELIA",
+    "TABLEAUX",
+    "TARK",
+    "ICLP (Technical Communications)",
+    "ICLP",
+    "JICSLP",
+    "Int. J. Approx. Reasoning",
+    "RuleML+RR",
+    "RuleML",
+    "RR",
+    "ICCBR",
+    "Int. J. Semantic Web Inf. Syst.",
+    "Semantic Web"
+  ],
+  "uncertainty*": [
+    "UAI",
+    "ECCV"
+  ],
+  "uncertiainty": [
+    "AAMAS",
+    "ACM Trans. Economics and Comput.",
+    "AIIDE",
+    "WINE",
+    "ADT",
+      "PGM",
+      "Probabilistic Graphical Models"
+  ],
+  "machine_learning*": [
+    "NIPS",
+    "NeurIPS",
+    "ICML",
+    "ML",
+    "IEEE Trans. Neural Netw. Learning Syst.",
+    "IEEE Trans. Neural Networks",
+    "KDD",
+    "WWW",
+    "WSDM",
+    "SIGIR",
+    "COLT",
+    "Machine Learning",
+    "ICDM"
+  ],
+  "machine_learinng": [
+    "J. Mach. Learn. Res.",
+    "IEEE Trans. Knowl. Data Eng.",
+    "Neural Networks",
+    "CIKM",
+    "AISTATS",
+    "Data Min. Knowl. Discov.",
+    "Neural Computation",
+    "SDM",
+    "ECML/PKDD",
+    "ECML",
+    "PKDD",
+    "EWSL",
+      "ECIR",
+      "BCS-IRSG Annual Colloquium on IR Research",
+    "PAKDD",
+    "RecSys",
+    "IJCNN",
+    "Neural Processing Letters",
+    "Inf.Retr.",
+    "Inf. Retr. Journal",
+    "ICANN",
+      "ILP",
+      "Inductive Logic Programming Workshop",
+      "ACML",
+      "ICLR"
+  ],
+  "perception*": [
+    "CVPR",
+    "ICCV",
+    "IEEE Trans. Pattern Anal. Mach. Intell."
+],
+  "perception":  [
+    "ECCV",
+    "International Journal of Computer Vision",
+      "Computer Vision and Image Understanding",
+      "CVGIP: Image Understanding",
+    "ACCV"
+  ],
+  "nlp*": [
+    "ACL",
+    "ACL/IJCNLP",
+    "COLING-ACL"
+  ],
+  "nlp": [
+      "EMNLP",
+      "EMNLP/IJCNLP",
+      "EMNLP-CoNLL",
+      "HLT/EMNLP",
+    "HLT-NAACL",
+    "NAACL",
+    "NAACL-HLT",
+    "COLING",
+    "EACL",
+    "CoNLL",
+    "IJCNLP"
+  ],
+  "interaction*": [
+    "CHI",
+      "UbiComp",
+      "UbiComp/ISWC Adjunct",
+    "ACM Trans. Comput.-Hum. Interact."
+  ],
+  "interaction": [
+    "IUI",
+      "IEEE Trans. Human-Machine Systems",
+      "IEEE Trans. Systems, Man, and Cybernetics, Part C",
+    "HCOMP"
+  ],
+  "robotik*": [
+    "I. J. Robotics Res.",
+    "IEEE Trans. Robotics",
+    "IEEE Trans. Robotics and Automation",
+    "IEEE J. Robotics and Automation",
+    "Robotics: Science and Systems"
+  ],
+  "robotik": [
+    "IROS",
+    "Robotics and Autonomous Systems",
+    "Robotics",
+    "J. Field Robotics",
+      "FSR",
+      "ICARCV",
+    "ISRR",
+    "ICRA",
+    "Auton. Robots",
+    "EWLR",
+    "IEEE Robot. Automat. Mag.",
+    "Humanoids",
+    "IEEE Robotics and Automation Letters",
+    "CoRL"
+  ],
+  "ethic": [
+    "AIES"
+  ]
+}
